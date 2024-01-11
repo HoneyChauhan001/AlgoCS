@@ -9,7 +9,7 @@ import { LogBox } from "react-native";
 
 const linking = {
   prefixes: [
-    /* your linking prefixes */
+    /* Your linking Prefixes */
   ],
   config: {
     screens: {
